@@ -1,10 +1,8 @@
 # HM3- GROUP 10
 #### ALESSANDRO FLABOREA, EGON FERRI, MELIS KAYMAZ
 ## Find the perfect place to stay in Texas!
+![](map.PNG?raw=true)
 
-<p align="center">
-<img src="https://i.pinimg.com/originals/b2/1f/b2/b21fb2b3efd83692a42bff8e05db92f1.png">
-</p>
 
 The homework consists in analyzing the text of Airbnb property listings and building  search engines.
 
@@ -19,4 +17,6 @@ The data in usage are available on [Kaggle](https://www.kaggle.com/PromptCloudHQ
 2. __`Functions.py`__: 
 	> This file contains function that we used through our anlisys. We store them in this file that we import in the main notebook in order keep our code tidy and well-organized.
     
-![](MAP.PNG?raw=true)
+<p align="center">
+<img src="https://i.pinimg.com/originals/b2/1f/b2/b21fb2b3efd83692a42bff8e05db92f1.png">
+</p>
