@@ -8,8 +8,9 @@ The homework consists in analyzing the text of Airbnb property listings and buil
 
 #### Download sets of articles
 
-The data in usage are available on [Kaggle](https://www.kaggle.com/PromptCloudHQ/airbnb-property-data-from-texas).
+The data in usage are "Airbnb Property Data from Texas" available on [Kaggle](https://www.kaggle.com/PromptCloudHQ/airbnb-property-data-from-texas).
 
+This data will be the corpus for our analysis.
 ## Script descriptions
 
 1. __`HW_3.ipynb`__: 
