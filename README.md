@@ -1,8 +1,8 @@
-# HM3- GROUP 10
+# Find the perfect place to stay in Texas!
+
 #### ALESSANDRO FLABOREA, EGON FERRI, MELIS KAYMAZ
 
 
-# Find the perfect place to stay in Texas!
 ![](map.PNG?raw=true)
 
 
